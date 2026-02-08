@@ -1,16 +1,26 @@
-## Hi there 👋
+# Привет, меня зовут Дмитрий, мне 25 лет! 👋
+Занимаюсь разработкой на C++, интересуюсь прикладными задачами, архитектурой приложений и работой с данными. В данный момент ищу работу .
 
-<!--
-**Dmituse/Dmituse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 _Образование_
+Окончил РГЭУ (РИНХ) по направлению «Прикладная математика и информатика» (бакалавриат, 2018–2022), затем обучался по программе «Искусственный интеллект и прикладные решения» (магистратура, 2022–2024).
 
-Here are some ideas to get you started:
+## 🕓 _Опты работы_
+С сентября 2023 года по ноябрь 2024 года работал преподавателем программирования, занимался обучением основам алгоритмизации, языкам программирования и работе с прикладными задачами.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 _Проекты_
+В репозиториях представлены практические проекты и тестовые задания от компаний Проекты добавляются и обновляются по мере работы над ними. 
+Примеры проектов:
+
+➡️ [Intellectika_task]([https://example.com](https://github.com/Dmituse/Intellectika_task)) — прототип системы в Unity, который создаёт 3D-фигуры по текстовым командам, используя C# и взаимодействие с внешним сервером (например, Flask).
+
+➡️ [SpecvuzAutomatic_Repository]([https://example.com](https://github.com/Dmituse/SpecvuzAutomatic_Repository))  — многопоточная программа на C++ для рекурсивного архивирования файлов в папке с использованием внешнего архиватора 7-Zip или библиотеки для сжатия.
+
+➡️ [ControlTechnology_Repository]([https://example.com](https://github.com/Dmituse/ControlTechnology_Repository))  — электронный телефонный справочник на C++ с Qt и SQLite, позволяющий хранить контакты с множественными номерами и отображать их через графический интерфейс.
+
+## ☎️ _Контакты_
+Телефон: +7 928 904-15-21
+
+Email: dmit.use@outlook.com
+
+Telegram: https://t.me/Dmit_Use
+
